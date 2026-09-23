@@ -1,0 +1,13 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+tfplan
+plan.txt
+
+# Mac
+.DS_Store
+
+# Secrets
+*.pem
+*.key
